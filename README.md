@@ -1,4 +1,4 @@
-# PulseBoard — Engineering Team Health Analytics
+# SprintSight — Engineering Team Health Analytics
 
 > Upload GitHub, Jira, and Standup data → Get team health scores, workload insights, and actionable manager recommendations in under 2 minutes.
 
