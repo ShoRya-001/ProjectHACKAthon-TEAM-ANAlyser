@@ -1,5 +1,19 @@
 @import "tailwindcss";
 
+:root {
+  /* New Color Palette */
+  --bright-snow: #f8f9faff;
+  --platinum: #e9ecefff;
+  --alabaster-grey: #dee2e6ff;
+  --pale-slate: #ced4daff;
+  --pale-slate-2: #adb5bdff;
+  --slate-grey: #6c757dff;
+  --iron-grey: #495057ff;
+  --gunmetal: #343a40ff;
+  --carbon-black: #212529ff;
+  /* ... other CSS variables or styles ... */
+}
+/* ... rest of your CSS file ... */
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
